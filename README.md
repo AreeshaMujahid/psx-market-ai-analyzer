@@ -57,17 +57,11 @@ It only explains computed results from Python to prevent hallucination.
 ## 📂 Project Structure
 
     psx-market-ai-analyzer/
-    │
     ├── app.py              # Main entry (CLI or Streamlit)
-    ├── scraper.py          # Playwright scraping logic
-    ├── analyzer.py         # Data cleaning + analytics logic
-    ├── llm_engine.py       # OpenAI interaction layer
     ├── requirements.txt
     ├── .gitignore
     ├── README.md
-    │
-    ├── assets/             # Screenshots
-    └── psx_output/         # Generated data files
+
 
 ------------------------------------------------------------------------
 
